@@ -7,7 +7,7 @@
 
 <div align="right">
 
-  <img width="0" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
 </div>
 
