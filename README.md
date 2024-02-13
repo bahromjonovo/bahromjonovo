@@ -26,7 +26,7 @@
   <a href="https://google.com"
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
   </a>
-  <a href="https://google.com">
+  <a href="https://t.me/bahromjonov17">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="50" alt="telegram logo"  />
   </a>
   <a href="https://google.com">
