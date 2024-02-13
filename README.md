@@ -17,7 +17,7 @@
 <br height="20" />
 
 <div align="right">
-  <a href="https://google.com">
+  <a href="https://https://www.instagram.com/bahromjonov17">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"/>
   </a>
   <a href="https://google.com">
